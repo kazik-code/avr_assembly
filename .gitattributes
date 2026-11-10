@@ -1,0 +1,3 @@
+*.asm linguist-language=Assembly
+*.asm linguist-detectable=true
+include/* linguist-vendored
